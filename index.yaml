@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  todoapi:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-12-08T08:34:23.261652-07:00"
+    description: Simple Go CRUD web app for todo tasks
+    digest: 1ffe1ad826d87eed7e8deac1c8d035cde688b9b88dfe3485442b7a7710a795a3
+    name: todoapi
+    type: application
+    urls:
+    - todoapi-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-08T08:34:23.260162-07:00"
